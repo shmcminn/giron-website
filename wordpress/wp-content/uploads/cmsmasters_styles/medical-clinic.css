@@ -5243,7 +5243,7 @@
 	.header_mid input[type=submit]:hover, 
 	.header_mid input[type=button]:hover, 
 	.header_mid button:hover {
-		color:rgba(51,41,32,0.16);
+		color:#332920;
 	}
 	
 	.header_mid,
@@ -5251,7 +5251,7 @@
 	.header_mid textarea,
 	.header_mid select,
 	.header_mid option {
-		background-color:rgba(51,41,32,0.16);
+		background-color:#332920;
 	}
 	/* Finish Header Middle Background Color */
 	
@@ -5301,12 +5301,12 @@
 	/* Start Header Middle Custom Rules */
 	.header_mid ::selection {
 		background:#ffffff;
-		color:rgba(51,41,32,0.16);
+		color:#332920;
 	}
 	
 	.header_mid ::-moz-selection {
 		background:#ffffff;
-		color:rgba(51,41,32,0.16);
+		color:#332920;
 	}
 	/* Finish Header Middle Custom Rules */
 
@@ -5369,7 +5369,7 @@
 	.header_bot input[type=submit], 
 	.header_bot input[type=button], 
 	.header_bot button {
-		color:rgba(51,41,32,0.11);
+		color:#653414;
 	}
 	
 	.header_bot,
@@ -5377,7 +5377,7 @@
 	.header_bot textarea,
 	.header_bot select,
 	.header_bot option {
-		background-color:rgba(51,41,32,0.11);
+		background-color:#653414;
 	}
 	/* Finish Header Bottom Background Color */
 	
@@ -5409,12 +5409,12 @@
 	/* Start Header Bottom Custom Rules */
 	.header_bot ::selection {
 		background:#ffffff;
-		color:rgba(51,41,32,0.11);
+		color:#653414;
 	}
 	
 	.header_bot ::-moz-selection {
 		background:#ffffff;
-		color:rgba(51,41,32,0.11);
+		color:#653414;
 	}
 	/* Finish Header Bottom Custom Rules */
 
@@ -5650,7 +5650,7 @@
 	
 	/* Start Header Top Background Color */	
 	.header_top {
-		background-color:rgba(151,143,121,0.23);
+		background-color:#332920;
 	}
 	/* Finish Header Top Background Color */
 	
@@ -5666,12 +5666,12 @@
 	/* Start Header Top Custom Rules */
 	.header_top ::selection {
 		background:#ffffff;
-		color:rgba(151,143,121,0.23);
+		color:#332920;
 	}
 	
 	.header_top ::-moz-selection {
 		background:#ffffff;
-		color:rgba(151,143,121,0.23);
+		color:#332920;
 	}
 	/* Finish Header Top Custom Rules */
 
